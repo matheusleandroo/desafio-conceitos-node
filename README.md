@@ -1,6 +1,6 @@
 # Desafio: Conceitos do Node.js
 
-Aplicação para armazenar repositórios do portfólio
+A simple project to store portfolio repositories
 
 ## Getting Started
 
